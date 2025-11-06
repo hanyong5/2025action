@@ -1,7 +1,13 @@
 import React from 'react';
 
 function App() {
-  return <div>안녕하세요.!!!111111111</div>;
+  return (
+    <div>
+      <h3>title</h3>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
+      pariatur!
+    </div>
+  );
 }
 
 export default App;
